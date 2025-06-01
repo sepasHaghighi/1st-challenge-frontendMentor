@@ -14,7 +14,7 @@ html{
   }
   
 .outfit-bold {
-    font-family: "Outfit", "Roboto";
+    font-family: "Outfit", Arial, Helvetica, sans-serif;
     font-optical-sizing: auto;
     font-weight: 700;
     font-style: normal;
@@ -24,7 +24,7 @@ html{
   }
   
 .outfit-regular {
-    font-family: "Outfit", "Roboto";
+    font-family: "Outfit", Arial, Helvetica, sans-serif;
     font-optical-sizing: auto;
     font-weight: 300;
     font-style: normal;
